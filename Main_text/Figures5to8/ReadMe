@@ -1,0 +1,7 @@
+This repository contains scripts to reproduce Figures 5 to 8. 
+
+- The script Figures5to8_OU.mat produces the top row of Figure 5 and Figure 6. 
+- The script Figures5to8_ring.mat produces the middle row of Figure 5 and Figure 7. 
+- The script Figures5to8_discrete.mat produces the bottom row of Figure 5 and Figure 8. 
+
+In all cases, it is only necessary to change the value of kappa according to the value described in the figure caption.
