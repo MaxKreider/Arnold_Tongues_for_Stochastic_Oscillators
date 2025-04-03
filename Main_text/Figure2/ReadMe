@@ -1,1 +1,1 @@
-To produce Figure 2, run Figure1_top.mat to produce the top row, Figure1_middle.mat to produce the middle row, and Figure1_bottom.mat to produce the bottom row. The Parallel Computing Toolbox is useful to speed up computation time, but is not necessary.
+To produce Figure 2, run Figure2_top.mat to produce the top row, Figure2_middle.mat to produce the middle row, and Figure2_bottom.mat to produce the bottom row. The Parallel Computing Toolbox is useful to speed up computation time, but is not necessary.
